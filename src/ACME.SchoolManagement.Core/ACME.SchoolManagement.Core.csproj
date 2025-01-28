@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ACME.SchoolManagement.Core</RootNamespace>
+    <AssemblyName>ACME.SchoolManagement.Core</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACME.SchoolManagement.Domain\ACME.SchoolManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
